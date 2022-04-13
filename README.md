@@ -1,1 +1,3 @@
 # 2171-OODI-Quality-Inn-Suites
+
+#COMP2171 GROUP PROJECT
