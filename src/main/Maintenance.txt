@@ -1,0 +1,23 @@
+
+Room111:Carpet soaked
+Room111:
+Room243:cockroaches
+Room65:The ac is broken and the fan fell of the ceiling
+Room65:The ac is broken and the fan fell of the ceiling
+Room263:
+Room222:
+Room222:
+Room11:Broken fan
+Room11:Broken fan
+Room11:Broken fan
+Room11:Broken fan
+Room22:Broken fan
+Room11:Broken fan
+Room11:
+Room33:
+Room88:Broken window
+Room88:Broken window
+Room88:Fan not working
+Room65:The ac is broken and the fan fell of the ceiling
+Room65:The ac is broken and the fan fell of the ceiling
+Room65:The ac is broken and the fan fell of the ceiling
